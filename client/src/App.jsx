@@ -1,10 +1,11 @@
 import React from "react";
-import TableComponent from "./table.component";
+import TableComponent from "../src/CollapsableTable/table.component";
+import MainPage from "./HashNode/main.page";
 
 function App() {
   return (
     <div>
-      <TableComponent />
+      <MainPage />
     </div>
   );
 }
