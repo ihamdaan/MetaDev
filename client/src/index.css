@@ -11,3 +11,7 @@
 .hash_component{
     font-family: 'Manrope', sans-serif;
 }
+
+.vertical_text{
+    writing-mode: vertical-rl;
+}
